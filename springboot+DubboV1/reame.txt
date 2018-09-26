@@ -1,1 +1,1 @@
-1234567
+springboot1.x版本 结合 dubbo纯注解方式，配合redis logback使用
